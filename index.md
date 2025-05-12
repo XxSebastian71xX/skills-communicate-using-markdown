@@ -7,3 +7,8 @@
 ``` c++
 cout << "Hello World!";
 ```
+
+- [x] Step 1: Headers
+- [x] Step 2: Images
+- [x] Step 3: Code Examples
+- [ ] Step 4: Checklist
